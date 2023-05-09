@@ -12,7 +12,7 @@
     <body>
         <nav class="menu">
             <ul>
-                <li><a href="{{ route('article.index') }}">Статьи</a></li>
+                <li><a href="{{ route('articles.index') }}">Статьи</a></li>
             </ul>
         </nav>
         <div class="container mt-4">
